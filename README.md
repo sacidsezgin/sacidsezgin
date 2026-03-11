@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**sacidsezgin/sacidsezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 📫 How to reach me: Contact me on GitHub or Linkedin
 
