@@ -6,5 +6,5 @@
 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,vue,js,jquery,html,css,tailwind,vite,vscode,wordpress,windows,docker,ai,ps,)](https://skillicons.dev)
 
-🎨 Other Skills:
+🎨 Other Skills:                                              
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,)](https://skillicons.dev)
